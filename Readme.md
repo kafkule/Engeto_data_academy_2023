@@ -36,7 +36,7 @@ Analýza ukazuje:
 - podíl obyvatel v rámci jednotlivých krajů dle dosaženého typu vzdělání (tabulka + graf)
 - podíl obyvatel v rámci jednotlivých typů vzdělání dle krajů (tabulka)
 
-Zdroj dat: tabulka Vzdělání, resp. z tabulka [Sčítání 2021 - Obyvatelstvo podle vzdělání od ČSÚ](https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00025593%2Fd752b2704511a0e381d2e89385ad0b9f).
+Zdroj dat: tabulka Vzdělání, resp. tabulka [Sčítání 2021 - Obyvatelstvo podle vzdělání od ČSÚ](https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00025593%2Fd752b2704511a0e381d2e89385ad0b9f).
 					
 
 ### Vzdělání v ČR 2021 - podrobnější analýza (_kk_projekt_Excel_2_)
