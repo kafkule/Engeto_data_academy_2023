@@ -22,7 +22,7 @@ Z tabulky poskytnuté tabulky _Vzdělání_ vypracovat takový report, aby odpov
 
 Při vypracování zadání jsem se rozhodla, že projekt rozšířím a vytvořím ještě podrobnější analýzu, která bude zahrnovat další podrobnosti o dosaženém vzdělání (větší granuralita) a údaje o pohlaví. 
 
-Data byla zpracována v Excelu pomocí editoru Power Query a kontingenčních tabulek z původním datových zdrojů ČSÚ.
+Data byla zpracována v Excelu pomocí editoru Power Query a kontingenčních tabulek z původních datových zdrojů ČSÚ.
 
 
 
