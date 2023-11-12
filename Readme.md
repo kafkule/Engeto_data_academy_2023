@@ -44,7 +44,7 @@ Zdroj dat: tabulka Vzdělání, resp. tabulka [Sčítání 2021 - Obyvatelstvo p
 - celkový podíl obyvatel České republiky dle dosažené typu vzdělání (tabulka + graf)
 - podíl obyvatel v rámci jednotlivých krajů dle dosaženého typu vzdělání (tabulka + graf)
 - podíl obyvatel v rámci jednotlivých typů vzdělání dle krajů (tabulka)
-- podíl obyvatel dle typu vzdělání připadající na 100 osob ve věku 15 a více let se zjištěným vzděláním (tabulka + kartografy)
+- podíl obyvatel dle typu vzdělání (počet obyvatel připadajících na 100 osob ve věku 15 a více let se zjištěným vzděláním, tzn. nejsou zahrnuty osoby, u kterých nebylo zjištěno dosažené vzdělání) (tabulka + kartografy)
 - porovnání dosaženého typu vzdělání dle pohlaví (tabulka + graf)
 - podíl dosaženého typu vzdělání dle jednotlivých pohlaví (tabulka + graf)
 
